@@ -1,0 +1,19 @@
+{
+  "name": "cinema-times-frontend",
+  "version": "0.0.1",
+  "description": "build tools for cinema times frontend",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottybarr/cinema-times-frontend.git"
+  },
+  "author": "scottbarr@gmail.com",
+  "license": "BSD"
+}
